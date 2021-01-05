@@ -21,6 +21,7 @@
     height:100vh;
   }
   .content{
+    border:1px solid red;
     overflow:auto;
     flex-grow:1;
   }
